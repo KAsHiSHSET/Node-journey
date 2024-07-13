@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "figlet": "^1.7.0",
+    "random-words": "^2.0.1"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "file1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kashu",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
